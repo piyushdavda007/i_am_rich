@@ -6,7 +6,7 @@ This app does nothing!!!!
 
  “a work of art with no hidden function at all.” 
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application development.
 
 Here is a screenchot of the app.
 
